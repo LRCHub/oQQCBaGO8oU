@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "UMA IN AMERICA",
+  "base_artist": "タイキシャトル (CV. 大坪由佳)、グラスワンダー (CV. 前田玲奈)、ヒシアマゾン (CV. 巽 悠衣子)、エルコンドルパサー (CV. 髙橋ミナミ)、シーキングザパール (CV. 福原綾香)、エスポワールシチー (CV. 亜咲花)、シンボリクリスエス (CV. 春川芽生)、タップダンスシチー (CV. 篠田みなみ)、シーザリオ (CV. 佐藤榛夏)、ラヴズオンリーユー (CV. 久保田未夢)、レッドディザイア (CV. 関根 瞳)、フォーエバーヤング (CV. 海弓シュリ)、マルシュロレーヌ (CV. 近貞月乃)",
+  "createdAt": "2026-03-03T13:56:51.326318Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "UMA IN AMERICA",
+      "artist": "Taiki Shuttle (CV: Yuka Otsubo), Grass Wonder (CV: Rena Maeda), Hishi Amazon (CV: Yuiko Tatsumi), El Condor Pasa (CV: Minami Takahashi), Seeking the Pearl (CV: Ayaka Fukuhara), Espoir City (CV: Asaka), Symboli Kris S (CV: Meiku Harukawa), Tap Dance City (CV: Minami Shinoda), Cesario (CV: Haruka Sato), Loves Only You (CV: Miyu Kubota), Red Desire (CV: Hitomi Sekine), Forever Young (CV: Shuri Miyumi) & Marche Lorraine (CV: Tsukino Chikasada)",
+      "has_synced": true,
+      "path": "select/01_UMA_IN_AMERICA_Taiki_Shuttle_(CV__Yuka_Otsubo),_Grass_Wonder_(CV__Rena_Maeda),_Hishi_Amazon_(CV.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "UMA IN AMERICA (Game Size)",
+      "artist": "Taiki Shuttle (CV: Yuka Otsubo), Grass Wonder (CV: Rena Maeda), Hishi Amazon (CV: Yuiko Tatsumi), El Condor Pasa (CV: Minami Takahashi), Seeking the Pearl (CV: Ayaka Fukuhara), Espoir City (CV: Asaka), Symboli Kris S (CV: Meiku Harukawa), Tap Dance City (CV: Minami Shinoda), Cesario (CV: Haruka Sato), Loves Only You (CV: Miyu Kubota), Red Desire (CV: Hitomi Sekine), Forever Young (CV: Shuri Miyumi) & Marche Lorraine (CV: Tsukino Chikasada)",
+      "has_synced": true,
+      "path": "select/02_UMA_IN_AMERICA_(Game_Size)_Taiki_Shuttle_(CV__Yuka_Otsubo),_Grass_Wonder_(CV__Rena_Maeda),_Hishi_Amazon_(CV.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UMA IN AMERICA",
+      "artist": "タイキシャトル(CV. 大坪由佳),グラスワンダー(CV. 前田玲奈),ヒシアマゾン(CV. 巽悠衣子),エルコンドルパサー(CV. 髙橋ミナミ),シーキングザパール(CV. 福原綾香),エスポワールシチー(CV. 亜咲花),シンボリクリスエス(CV. 春川芽生),タップダンスシチー(CV. 篠田みなみ),シーザリオ(CV. 佐藤榛夏),ラヴズオンリーユー(CV. 久保田未夢),レッドディザイア(CV. 関根瞳),フォーエバーヤング(CV. 海弓シュリ),マルシュロレーヌ(CV. 近貞月乃)",
+      "has_synced": false,
+      "path": "select/pl_01_UMA_IN_AMERICA_タイキシャトル(CV._大坪由佳),グラスワンダー(CV._前田玲奈),ヒシアマゾン(CV._巽悠衣子),エルコンドルパサー(CV._髙橋ミナミ),シーキングザ.txt"
+    }
+  ]
+}
